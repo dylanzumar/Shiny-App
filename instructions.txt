@@ -1,0 +1,5 @@
+For your challenge, we would like you to do some exploratory analysis on the attached data. This is intentionally open-ended. We want to see what meaning you can extract and communicate without any guidance. The programming language, frameworks, etc that you use are up to you. Make any assumptions necessary and state them in your submission if you need to.
+ 
+There is no deadline or time limit---complete this at your convenience. Don’t spend a huge amount of time, we know you are busy!
+
+Let your code / output speak for itself rather than writing a lot of text or making a formal presentation. Return whatever materials you generate along with an estimate of how long you spent on it.
